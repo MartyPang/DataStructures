@@ -1,4 +1,4 @@
-package graph;
+package ecnu.dase.graph;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -115,7 +115,7 @@ public class Graph {
             }
         }
 //        for(int i = 0; i < edges.length; ++i) {
-//            graph[edges[i][0]].add(edges[i][1]);
+//            ecnu.dase.graph[edges[i][0]].add(edges[i][1]);
 //            indegree[edges[i][1]]++;
 //        }
 
